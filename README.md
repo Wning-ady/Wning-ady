@@ -15,6 +15,10 @@
 
 用 AI 协作做小而可靠的自托管工具，重视清晰默认值、可观察运行和恢复路径。
 
+<div align="center">
+  <img src="assets/homelab-loop.gif" width="640" alt="A home server syncing with the cloud">
+</div>
+
 ## 核心项目 / Work
 
 ### [MoviePilot Plugins Repair Shop](https://github.com/Wning-ady/MoviePilot-Plugins-repair-shop)
@@ -34,6 +38,16 @@
 为当前 Docker 容器管理图标，带审计记录与可回滚同步。
 
 `TypeScript` · `Docker` · [安装](https://github.com/Wning-ady/unraid-icon-manager#在-unraid-安装) · [Docker Hub](https://hub.docker.com/r/waning/unraid-icon-manager)
+
+## 活跃轨迹 / Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wning-ady/Wning-ady/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wning-ady/Wning-ady/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/Wning-ady/Wning-ady/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 做事方式 / Principles
 
