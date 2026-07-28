@@ -3,7 +3,6 @@
   <p><strong>把自托管的日常问题，做成可靠工具。</strong></p>
   <p>Reliable tools for the self-hosted life.</p>
   <p>
-    <a href="https://afdian.com/a/waning"><img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E8%B5%9E%E5%8A%A9-ea4aaa?style=flat-square" alt="Sponsor waning on Afdian"></a>
     <a href="https://hub.docker.com/r/waning/unraid-icon-manager"><img src="https://img.shields.io/docker/pulls/waning/unraid-icon-manager?style=flat-square&label=Icon%20Manager%20pulls" alt="Unraid Icon Manager Docker pulls"></a>
     <a href="https://hub.docker.com/r/waning/onesync"><img src="https://img.shields.io/docker/pulls/waning/onesync?style=flat-square&label=OneSync%20pulls" alt="OneSync Docker pulls"></a>
     <a href="https://github.com/Wning-ady/MoviePilot-Plugins-repair-shop/actions/workflows/validate.yml"><img src="https://img.shields.io/github/actions/workflow/status/Wning-ady/MoviePilot-Plugins-repair-shop/validate.yml?style=flat-square&label=MoviePilot%20tests" alt="MoviePilot plugin validation status"></a>
@@ -55,10 +54,6 @@
 - **先验证，再写入**：预演与回归测试先于实际变更。
 - **默认可恢复**：关键操作保留日志、备份或回滚路径。
 - **文档跟随代码**：部署、升级与故障恢复写进项目本身。
-
-## 支持项目 / Support
-
-我已入驻 [爱发电](https://afdian.com/a/waning)，你的支持会用于持续维护开源项目与基础设施。
 
 <div align="center">
   <sub>Open source · built for the next reboot</sub>
